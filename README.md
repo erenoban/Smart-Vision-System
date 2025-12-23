@@ -1,4 +1,4 @@
-# Smart-Vision-System
+
 # Akıllı Gözlük - Yapay Zeka Destekli OCR & Sesli Asistan
 Bu proje, görme engelli bireyler için geliştirilmiş, çevredeki metinleri algılayıp sese dönüştüren bir Akıllı Gözlük sisteminin backend (sunucu) ve client (istemci) altyapısını içerir.
 # Proje Nasıl Çalışır?
